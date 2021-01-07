@@ -22,6 +22,7 @@ namespace ConsoleApplicationWinter2021
             var currentDate = DateTime.Now;
             Console.WriteLine("The current date is " + currentDate.ToString("d"));
 
+            // 5.
 
 
 
